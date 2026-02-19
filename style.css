@@ -38,3 +38,12 @@ body {
 h1 {
     margin-bottom: 15px;
 }
+
+.note-input{
+    margin-bottom: 20px;
+}
+
+.note-container {
+    text-align: left;
+}
+
